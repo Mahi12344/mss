@@ -1,1 +1,2 @@
-this is the file created to learn the push command
+this is the file created to learn the push command 
+hello hai 
